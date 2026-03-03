@@ -184,4 +184,132 @@
 </image>
 </media>
 </property>
+<property>
+<reference>
+<![CDATA[ EAF-125227297852 ]]>
+</reference>
+<uniqueid>266849</uniqueid>
+<realtime/>
+<created>2026-01-08 13:07:01</created>
+<updated>2026-02-27 14:43:48</updated>
+<published>1</published>
+<featured>0</featured>
+<transaction>2</transaction>
+<type>48</type>
+<status>6</status>
+<new_build/>
+<price>900</price>
+<currency>
+<![CDATA[ GBP ]]>
+</currency>
+<rent_frequency>1</rent_frequency>
+<deposit>900</deposit>
+<tenure>2</tenure>
+<tenure_remaining/>
+<annual_service_charge/>
+<shared_ownership/>
+<shared_ownership_percentage/>
+<shared_ownership_rent/>
+<shared_ownership_rent_frequency/>
+<council_tax_band/>
+<domestic_rates/>
+<council_tax_exempt/>
+<administration_fee>
+<![CDATA[ ]]>
+</administration_fee>
+<date_available/>
+<house_name_number>
+<![CDATA[ 259 Station Road ]]>
+</house_name_number>
+<address_1>
+<![CDATA[ Room 1 ]]>
+</address_1>
+<address_2>
+<![CDATA[ ]]>
+</address_2>
+<town>
+<![CDATA[ Hayes ]]>
+</town>
+<city>
+<![CDATA[ Hayes ]]>
+</city>
+<country_code>
+<![CDATA[ GB ]]>
+</country_code>
+<postcode_1>
+<![CDATA[ UB3 ]]>
+</postcode_1>
+<postcode_2>
+<![CDATA[ 4JE ]]>
+</postcode_2>
+<display_address>
+<![CDATA[ Room 1, Hayes, UB3 ]]>
+</display_address>
+<latitude>51.497612</latitude>
+<longitude>-0.426212</longitude>
+<title>
+<![CDATA[ ]]>
+</title>
+<summary>
+<![CDATA[ Vesture Ltd is pleased to offer this one room in multiple occupation (HMO), conveniently located in Hayes, UB2 4JE. The property provides practical and comfortable living accommodation, ideally suited for professionals, with easy access to local amenities, transport links, and nearby facilities. ]]>
+</summary>
+<description>
+<![CDATA[ Vesture Ltd is pleased to offer this one room in multiple occupation (HMO), conveniently located in Hayes, UB2 4JE. The property provides practical and comfortable living accommodation, ideally suited for professionals, with easy access to local amenities, transport links, and nearby facilities. ]]>
+</description>
+<washingmachine/>
+<dishwasher/>
+<burglaralarm/>
+<tvlicence/>
+<broadbandinternet/>
+<gasbill/>
+<waterbill/>
+<electricbill/>
+<tvsubscription/>
+<allbills/>
+<features> </features>
+<bedrooms>1</bedrooms>
+<bathrooms>0</bathrooms>
+<receptions>0</receptions>
+<outside_space>0</outside_space>
+<internal_area/>
+<internal_area_max/>
+<internal_area_unit/>
+<floors/>
+<furnished/>
+<rooms> </rooms>
+<media>
+<image>
+<url>
+<![CDATA[ https://s3.eu-west-2.amazonaws.com/media.estateagentfeeds.com/properties/media/xl/e0783cc69e458c763dd006b5ed705d4b98900.jpeg ]]>
+</url>
+<caption>
+<![CDATA[ Photo ]]>
+</caption>
+</image>
+<image>
+<url>
+<![CDATA[ https://s3.eu-west-2.amazonaws.com/media.estateagentfeeds.com/properties/media/xl/e0783cc69e458c763dd006b5ed705d4b95339.jpeg ]]>
+</url>
+<caption>
+<![CDATA[ Photo ]]>
+</caption>
+</image>
+<image>
+<url>
+<![CDATA[ https://s3.eu-west-2.amazonaws.com/media.estateagentfeeds.com/properties/media/xl/e0783cc69e458c763dd006b5ed705d4b20825.jpeg ]]>
+</url>
+<caption>
+<![CDATA[ Photo ]]>
+</caption>
+</image>
+<image>
+<url>
+<![CDATA[ https://s3.eu-west-2.amazonaws.com/media.estateagentfeeds.com/properties/media/xl/e0783cc69e458c763dd006b5ed705d4b38469.jpeg ]]>
+</url>
+<caption>
+<![CDATA[ Photo ]]>
+</caption>
+</image>
+</media>
+</property>
 </root>
